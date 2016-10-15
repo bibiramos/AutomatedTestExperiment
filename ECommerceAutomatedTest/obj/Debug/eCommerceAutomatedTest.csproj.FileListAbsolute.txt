@@ -1,0 +1,25 @@
+C:\Users\Bia\documents\visual studio 2013\Projects\eCommerceAutomatedTest\eCommerceAutomatedTest\bin\Debug\eCommerceAutomatedTest.dll
+C:\Users\Bia\documents\visual studio 2013\Projects\eCommerceAutomatedTest\eCommerceAutomatedTest\bin\Debug\eCommerceAutomatedTest.pdb
+C:\Users\Bia\documents\visual studio 2013\Projects\eCommerceAutomatedTest\eCommerceAutomatedTest\bin\Debug\nunit.framework.dll
+C:\Users\Bia\documents\visual studio 2013\Projects\eCommerceAutomatedTest\eCommerceAutomatedTest\bin\Debug\WebDriver.dll
+C:\Users\Bia\documents\visual studio 2013\Projects\eCommerceAutomatedTest\eCommerceAutomatedTest\bin\Debug\WebDriver.Support.dll
+C:\Users\Bia\documents\visual studio 2013\Projects\eCommerceAutomatedTest\eCommerceAutomatedTest\bin\Debug\nunit.framework.xml
+C:\Users\Bia\documents\visual studio 2013\Projects\eCommerceAutomatedTest\eCommerceAutomatedTest\bin\Debug\WebDriver.xml
+C:\Users\Bia\documents\visual studio 2013\Projects\eCommerceAutomatedTest\eCommerceAutomatedTest\bin\Debug\WebDriver.Support.xml
+C:\Users\Bia\documents\visual studio 2013\Projects\eCommerceAutomatedTest\eCommerceAutomatedTest\obj\Debug\eCommerceAutomatedTest.dll
+C:\Users\Bia\documents\visual studio 2013\Projects\eCommerceAutomatedTest\eCommerceAutomatedTest\obj\Debug\eCommerceAutomatedTest.pdb
+C:\Users\Bia\documents\visual studio 2013\Projects\eCommerceAutomatedTest\eCommerceAutomatedTest\obj\Debug\eCommerceAutomatedTest.csprojResolveAssemblyReference.cache
+C:\Users\Bia\Dropbox\ECommerceAutomatedTest\eCommerceAutomatedTest\bin\Debug\eCommerceAutomatedTest.dll
+C:\Users\Bia\Dropbox\ECommerceAutomatedTest\eCommerceAutomatedTest\bin\Debug\eCommerceAutomatedTest.pdb
+C:\Users\Bia\Dropbox\ECommerceAutomatedTest\eCommerceAutomatedTest\bin\Debug\nunit.framework.dll
+C:\Users\Bia\Dropbox\ECommerceAutomatedTest\eCommerceAutomatedTest\bin\Debug\WebDriver.dll
+C:\Users\Bia\Dropbox\ECommerceAutomatedTest\eCommerceAutomatedTest\bin\Debug\WebDriver.Support.dll
+C:\Users\Bia\Dropbox\ECommerceAutomatedTest\eCommerceAutomatedTest\bin\Debug\nunit.framework.xml
+C:\Users\Bia\Dropbox\ECommerceAutomatedTest\eCommerceAutomatedTest\bin\Debug\WebDriver.xml
+C:\Users\Bia\Dropbox\ECommerceAutomatedTest\eCommerceAutomatedTest\bin\Debug\WebDriver.Support.xml
+C:\Users\Bia\Dropbox\ECommerceAutomatedTest\eCommerceAutomatedTest\obj\Debug\ECommerceAutomatedTest.csprojResolveAssemblyReference.cache
+C:\Users\Bia\Dropbox\ECommerceAutomatedTest\eCommerceAutomatedTest\obj\Debug\eCommerceAutomatedTest.dll
+C:\Users\Bia\Dropbox\ECommerceAutomatedTest\eCommerceAutomatedTest\obj\Debug\eCommerceAutomatedTest.pdb
+C:\Users\Bia\Dropbox\ECommerceAutomatedTest\eCommerceAutomatedTest\bin\Debug\Dependencies\chromedriver.exe
+C:\Users\Bia\Dropbox\ECommerceAutomatedTest\eCommerceAutomatedTest\bin\Debug\Dependencies\IEDriverServer.exe
+C:\Users\Bia\Dropbox\ECommerceAutomatedTest\eCommerceAutomatedTest\bin\Debug\eCommerceAutomatedTest.dll.config
